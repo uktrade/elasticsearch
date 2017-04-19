@@ -7,6 +7,6 @@ network.host: 0.0.0.0
 discovery:
   zen.minimum_master_nodes: 1
   zen.hosts_provider: ec2
-  zen.host_type: private_ip   # private_dns ?
+  ec2.host_type: private_ip   # private_dns ?
   
 
