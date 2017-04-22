@@ -1,1 +1,1 @@
-# Elastic search configured for running on AWS
+# Elastic Search
